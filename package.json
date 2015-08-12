@@ -1,0 +1,39 @@
+{
+  "name": "laravel-elixir-helpers",
+  "version": "1.0.0",
+  "description": "A gulp packages wrappers ingredients for Laravel Elixir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkaOnLine/laravel-elixir-helpers.git"
+  },
+  "keywords": [
+    "gulp",
+    "laravel",
+    "elixir",
+    "helper",
+    "rename",
+    "url adjust"
+  ],
+  "author": {
+    "name"  : "Darius Matulionis",
+    "email" : "darius@matulionis.lt",
+    "url"   : "http://matulionis.lt"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkaOnLine/laravel-elixir-helpers/issues"
+  },
+  "homepage": "https://github.com/DarkaOnLine/laravel-elixir-helpers",
+  "dependencies": {
+    "laravel-elixir":"^3.1.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-css-url-adjuster": "0.*"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  }
+}
