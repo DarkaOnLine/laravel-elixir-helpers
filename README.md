@@ -16,9 +16,11 @@ require('laravel-elixir-helpers');
 ## Usage
 
 ### Rename
+```javascript
 elixir(function(mix) {
    mix.rename('./path/to/source/file.css', 'new_file_name.css', './destination/path');
 });
+```
 
 ### Url Adjuster
 
