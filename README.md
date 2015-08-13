@@ -1,4 +1,4 @@
-# laravel-elixir-helpers
+# Collection Of Laravel Elixir Helpers
 Various Laravel Elixir 3 helpers 
 
 ***
