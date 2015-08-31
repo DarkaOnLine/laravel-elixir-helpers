@@ -1,6 +1,9 @@
-# laravel-elixir-helpers
+# Collection Of Laravel Elixir Helpers
 Various Laravel Elixir 3 helpers 
 
+***
+[![NPM](https://nodei.co/npm/laravel-elixir-helpers.png?downloads=true&downloadRank=true)](https://npmjs.org/package/laravel-elixir-helpers)
+***
 
 ## Installation
 
